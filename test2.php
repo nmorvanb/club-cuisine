@@ -1,3 +1,5 @@
 <?php 
-echo "oui mais non";
+echo "oui";
+echo "non";
+
 ?>
